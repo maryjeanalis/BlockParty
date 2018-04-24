@@ -1,14 +1,8 @@
-//
-//  BlockerRule.h
-//  BlockParty
-//
-//  Created by Krishna Kumar on 5/08/2015.
-//  Copyright © 2015 Krishna Kumar. All rights reserved.
-//
+
 
 #import <Foundation/Foundation.h>
 
-@interface BlockerRule : NSObject
+//@interface BlockerRule : NSObject
 
 //supporting only mandatory fields for now
 @property (strong,nonatomic)NSString *urlFilter;
